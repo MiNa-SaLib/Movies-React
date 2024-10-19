@@ -1,0 +1,7 @@
+.page{
+    margin-top: 50px;
+    min-height: 100vh;
+}
+ .page img{
+    height: 400px;
+ }
